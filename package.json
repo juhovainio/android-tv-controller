@@ -1,0 +1,16 @@
+{
+  "name": "atv-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "androidtv-remote": "^1.0.10",
+    "dotenv": "^16.4.5"
+  }
+}
